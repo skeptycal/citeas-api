@@ -20,4 +20,4 @@ sentry-sdk==0.6.5
 shortuuid==0.4.3
 unidecode==0.04.21
 WebOb==1.8.3
-Werkzeug==0.14.1
+Werkzeug==0.15.3
